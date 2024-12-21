@@ -1,0 +1,17 @@
+{
+    "source": "NDG",
+    "description": "De Stichting Nederlandse Databank Gezelschapsdieren",
+    "zoekresultaat": {
+        "Identificatienummer": "111111111111111",
+        "Diernaam": "Test",
+        "Diersoort": "Kat",
+        "Paspoort_geregistreerd": "Nee",
+        "Woonplaats_houder": "Rotterdam",
+        "Land_houder": "NL",
+        "Telefoon_Nederland": "06 11223344",
+        "Telefoon_buitenland": "+31 6 11223344",
+        "Vermist": "Nee",
+        "Overleden": "Nee"
+      }
+  }
+  
