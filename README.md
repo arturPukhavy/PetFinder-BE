@@ -1,5 +1,5 @@
 # PetFinder-BE
-<img src="img/under_construction.jpg" width="10%">
+<img src="img/under_construction.jpg" width="15%">
 This backend application exposes APIs for the Pet Finder application, supporting both desktop and mobile versions.
 
 ## Used technologies
