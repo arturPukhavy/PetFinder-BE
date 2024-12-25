@@ -30,9 +30,12 @@ app.get('/api/v1/barcode/:id', async (req, res) => {
     return res.json(mock1111)
   }
   if (barcodeId === '222222222222222') {
-    const html = readMockHtml(`mock-222222222222222.html`);
-    const data = htmlToJson(html);
-    return res.json(data)
+    setTimeout(() => {
+      const html = readMockHtml('mock-222222222222222.html');
+      const data = htmlToJson(html);
+      return res.json(data);
+    }, 5000); // 5 seconds delay
+    return;
   }
   if (barcodeId === '333333333333333') {
     const html = readMockHtml(`mock-333333333333333.html`);
