@@ -34,7 +34,7 @@ app.get('/api/v1/barcode/:id', async (req, res) => {
       const html = readMockHtml('mock-222222222222222.html');
       const data = htmlToJson(html);
       return res.json(data);
-    }, 5000); // 5 seconds delay
+    }, 5000); // 5 intentional latency
     return;
   }
   if (barcodeId === '333333333333333') {

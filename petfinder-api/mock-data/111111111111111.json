@@ -5,7 +5,7 @@
         "Identificatienummer": "111111111111111",
         "Diernaam": "Test",
         "Diersoort": "Kat",
-        "Paspoort_geregistreerd": false,
+        "Paspoort_geregistreerd": "Nee",
         "Woonplaats_houder": "Rotterdam",
         "Land_houder": "NL",
         "Telefoon_Nederland": "06 11223344",
