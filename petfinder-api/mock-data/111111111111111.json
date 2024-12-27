@@ -1,9 +1,9 @@
 {
-    "source": "NDG",
-    "description": "De Stichting Nederlandse Databank Gezelschapsdieren",
+    "source": "Test-DB",
+    "description": "This a test database",
     "zoekresultaat": {
         "Identificatienummer": "111111111111111",
-        "Diernaam": "Test",
+        "Diernaam": "Simba",
         "Diersoort": "Kat",
         "Paspoort_geregistreerd": "Nee",
         "Woonplaats_houder": "Rotterdam",
